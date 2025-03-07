@@ -1,0 +1,10 @@
+numpy
+struct
+pandas
+matplotlib
+seaborn
+tensorflow
+keras
+scikit-learn
+lime
+scikit-image
