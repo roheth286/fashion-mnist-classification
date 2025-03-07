@@ -59,7 +59,7 @@ The dataset can be accessed using the following link:
 - Visualized loss and accuracy trends over training epochs.
 
 ## Additional Links
-- **Google Drive Link** (For dataset and running on Colab): [Dataset Link](https://drive.google.com/file/d/1byxncPUl2aeKFZ0voFAQ7WbyjBSvLhNA/view?usp=sharing)
+- **Google Drive Link** (For dataset and running on Colab):https://drive.google.com/drive/folders/1CYYyVZ48QPbJnDm89zy1FIlRWUqaCVBv?usp=drive_link
 
 ## Author
 **Roheth Ramakrishnan**
