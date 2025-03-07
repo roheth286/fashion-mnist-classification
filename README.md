@@ -19,7 +19,7 @@ To run the notebook on your local machine, follow these steps:
 4. Run the notebook cell by cell.
 
 ### Alternative: Running on Google Drive
-If you encounter issues running the notebook locally, you can execute it in Google Colab. The dataset is stored on Google Drive, and the link is provided below for direct access.
+If you encounter issues running the notebook locally, you can execute it in Google Colab. The dataset is stored on Google Drive, and the link is provided below in the additional links section.
 
 ## Dataset Information
 The dataset can be accessed using the following link:
